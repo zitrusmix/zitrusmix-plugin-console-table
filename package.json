@@ -1,6 +1,6 @@
 {
     "name": "@zitrusmix/zitrusmix-plugin-console-table",
-    "version": "0.1.0-SNAPSHOT.0",
+    "version": "0.1.0",
     "description": "Prints a pretty table of the Zitrusmix content to the console",
     "keywords": [
         "zitrusmix-plugin",
